@@ -1,0 +1,306 @@
+[
+  {
+    "name": "My Construction LTD #1",
+    "location": "Dortmund, Germany",
+    "description": "My Construction LTD #1 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/439/299"
+  },
+  {
+    "name": "My Construction LTD #2",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #2 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Plumbing",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/438/298"
+  },
+  {
+    "name": "My Construction LTD #3",
+    "location": "Dortmund, Germany",
+    "description": "My Construction LTD #3 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Mechanical"
+    ],
+    "imageUrl": "https://placekitten.com/437/297"
+  },
+  {
+    "name": "My Construction LTD #4",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #4 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Plumbing",
+      "Electrical",
+      "Mechanical"
+    ],
+    "imageUrl": "https://placekitten.com/436/296"
+  },
+  {
+    "name": "My Construction LTD #5",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #5 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Plumbing",
+      "Mechanical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/435/295"
+  },
+  {
+    "name": "My Construction LTD #6",
+    "location": "Dortmund, Germany",
+    "description": "My Construction LTD #6 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Plumbing",
+      "Electrical",
+      "Mechanical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/434/294"
+  },
+  {
+    "name": "My Construction LTD #7",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #7 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Plumbing",
+      "Electrical"
+    ],
+    "imageUrl": "https://placekitten.com/433/293"
+  },
+  {
+    "name": "My Construction LTD #8",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #8 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Electrical"
+    ],
+    "imageUrl": "https://placekitten.com/432/292"
+  },
+  {
+    "name": "My Construction LTD #9",
+    "location": "Paris, France",
+    "description": "My Construction LTD #9 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/431/291"
+  },
+  {
+    "name": "My Construction LTD #10",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #10 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Electrical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/430/290"
+  },
+  {
+    "name": "My Construction LTD #11",
+    "location": "Paris, France",
+    "description": "My Construction LTD #11 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Electrical"
+    ],
+    "imageUrl": "https://placekitten.com/429/289"
+  },
+  {
+    "name": "My Construction LTD #12",
+    "location": "Paris, France",
+    "description": "My Construction LTD #12 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Plumbing",
+      "Electrical"
+    ],
+    "imageUrl": "https://placekitten.com/428/288"
+  },
+  {
+    "name": "My Construction LTD #13",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #13 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Electrical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/427/287"
+  },
+  {
+    "name": "My Construction LTD #14",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #14 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Plumbing",
+      "Mechanical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/426/286"
+  },
+  {
+    "name": "My Construction LTD #15",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #15 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation"
+    ],
+    "imageUrl": "https://placekitten.com/425/285"
+  },
+  {
+    "name": "My Construction LTD #16",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #16 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Electrical",
+      "Mechanical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/424/284"
+  },
+  {
+    "name": "My Construction LTD #17",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #17 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Mechanical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/423/283"
+  },
+  {
+    "name": "My Construction LTD #18",
+    "location": "Dortmund, Germany",
+    "description": "My Construction LTD #18 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/422/282"
+  },
+  {
+    "name": "My Construction LTD #19",
+    "location": "Dortmund, Germany",
+    "description": "My Construction LTD #19 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Electrical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/421/281"
+  },
+  {
+    "name": "My Construction LTD #20",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #20 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Plumbing",
+      "Mechanical"
+    ],
+    "imageUrl": "https://placekitten.com/420/280"
+  },
+  {
+    "name": "My Construction LTD #21",
+    "location": "Dortmund, Germany",
+    "description": "My Construction LTD #21 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Mechanical"
+    ],
+    "imageUrl": "https://placekitten.com/419/279"
+  },
+  {
+    "name": "My Construction LTD #22",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #22 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Mechanical",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/418/278"
+  },
+  {
+    "name": "My Construction LTD #23",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #23 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/417/277"
+  },
+  {
+    "name": "My Construction LTD #24",
+    "location": "Dusseldorf, Germany",
+    "description": "My Construction LTD #24 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/416/276"
+  },
+  {
+    "name": "My Construction LTD #25",
+    "location": "Dortmund, Germany",
+    "description": "My Construction LTD #25 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Plumbing",
+      "Electrical"
+    ],
+    "imageUrl": "https://placekitten.com/415/275"
+  },
+  {
+    "name": "My Construction LTD #26",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #26 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [],
+    "imageUrl": "https://placekitten.com/414/274"
+  },
+  {
+    "name": "My Construction LTD #27",
+    "location": "Paris, France",
+    "description": "My Construction LTD #27 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Plumbing",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/413/273"
+  },
+  {
+    "name": "My Construction LTD #28",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #28 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Mechanical"
+    ],
+    "imageUrl": "https://placekitten.com/412/272"
+  },
+  {
+    "name": "My Construction LTD #29",
+    "location": "Dortmund, Germany",
+    "description": "My Construction LTD #29 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Excavation",
+      "Plumbing",
+      "Mechanical"
+    ],
+    "imageUrl": "https://placekitten.com/411/271"
+  },
+  {
+    "name": "My Construction LTD #30",
+    "location": "Munchen, Germany",
+    "description": "My Construction LTD #30 specialises in all areas of refurbishment and new build projects, predominately within the education, healthcare and commercial sectors.",
+    "specialties": [
+      "Plumbing",
+      "Engineering"
+    ],
+    "imageUrl": "https://placekitten.com/410/270"
+  }
+]

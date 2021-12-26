@@ -1,0 +1,20 @@
+version: '3.7'
+
+services:
+  backend:
+    container_name: iconstruct_backend
+    image: iconstruct_backend
+    networks:
+      - iconstruct
+    ports:
+      - 5000:5000
+  frontend:
+    container_name: iconstruct_frontend
+    image: iconstruct_frontend
+    networks:
+      - iconstruct
+    ports:
+      - 3000:3000
+
+networks:
+  iconstruct:
